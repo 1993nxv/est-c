@@ -42,3 +42,8 @@ depcomp
 install-sh
 missing
 mkinstalldirs
+
+#ide
+.idea/
+.vscode/
+

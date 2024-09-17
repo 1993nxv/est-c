@@ -1,0 +1,44 @@
+# Arquivos de compilação
+*.o
+*.obj
+*.so
+*.a
+*.out
+*.exe
+
+# Diretórios de compilação
+build/
+bin/
+obj/
+
+# Arquivos temporários de editor
+*~
+*.swp
+*.swo
+*.swn
+
+# Arquivos de configuração do sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos específicos do projeto
+*.log
+
+# Arquivos do CMake (se estiver usando CMake)
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Arquivos gerados pelo Autotools (se estiver usando Autotools)
+autom4te.cache/
+aclocal.m4
+config.guess
+config.log
+config.status
+config.sub
+Makefile.in
+depcomp
+install-sh
+missing
+mkinstalldirs
